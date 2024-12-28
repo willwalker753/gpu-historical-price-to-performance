@@ -1,0 +1,207 @@
+{
+    "gpus": [
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 1080 Ti",
+            "3dmark_time_spy_avg_score": 9397,
+            "release_date": "2017-03-10",
+            "msrp": 699.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 2080 Ti",
+            "3dmark_time_spy_avg_score": 13586,
+            "release_date": "2018-09-20",
+            "msrp": 999.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 3090 Ti",
+            "3dmark_time_spy_avg_score": 20173,
+            "release_date": "2022-03-29",
+            "msrp": 1999.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 4090",
+            "3dmark_time_spy_avg_score": 30481,
+            "release_date": "2022-10-12",
+            "msrp": 1599.99
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 1070",
+            "3dmark_time_spy_avg_score": 5941,
+            "release_date": "2016-06-10",
+            "msrp": 379.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 1660 Ti",
+            "3dmark_time_spy_avg_score": 6341,
+            "release_date": "2019-02-22",
+            "msrp": 279.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 3070",
+            "3dmark_time_spy_avg_score": 12665,
+            "release_date": "2020-10-29",
+            "msrp": 499.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 3060 Ti",
+            "3dmark_time_spy_avg_score": 11025,
+            "release_date": "2020-12-02",
+            "msrp": 399.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 1080",
+            "3dmark_time_spy_avg_score": 7288,
+            "release_date": "2016-05-27",
+            "msrp": 599.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 980 Ti",
+            "3dmark_time_spy_avg_score": 5746,
+            "release_date": "2015-06-16",
+            "msrp": 649.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 1660 Super",
+            "3dmark_time_spy_avg_score": 6097,
+            "release_date": "2019-10-29",
+            "msrp": 229.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 4060 Ti 16GB",
+            "3dmark_time_spy_avg_score": 12978,
+            "release_date": "2023-05-18",
+            "msrp": 499.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 3060",
+            "3dmark_time_spy_avg_score": 8706,
+            "release_date": "2021-02-25",
+            "msrp": 329.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 1060 6GB",
+            "3dmark_time_spy_avg_score": 4268,
+            "release_date": "2016-07-19",
+            "msrp": 249.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 1050 Ti",
+            "3dmark_time_spy_avg_score": 2510,
+            "release_date": "2016-10-25",
+            "msrp": 139.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 950",
+            "3dmark_time_spy_avg_score": 2020,
+            "release_date": "2015-08-20",
+            "msrp": 159.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 4080",
+            "3dmark_time_spy_avg_score": 24839,
+            "release_date": "2022-11-16",
+            "msrp": 1199.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 4070",
+            "3dmark_time_spy_avg_score": 16573,
+            "release_date": "2023-04-12",
+            "msrp": 599.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 4070 Ti Super",
+            "3dmark_time_spy_avg_score": 21595,
+            "release_date": "2024-01-24",
+            "msrp": 799.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 780",
+            "3dmark_time_spy_avg_score": 2973,
+            "release_date": "2013-05-23",
+            "msrp": 649.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 3070 Ti",
+            "3dmark_time_spy_avg_score": 13892,
+            "release_date": "2021-06-10",
+            "msrp": 599.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 660 Ti",
+            "3dmark_time_spy_avg_score": 1758,
+            "release_date": "2012-08-16",
+            "msrp": 299.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 1050",
+            "3dmark_time_spy_avg_score": 1861,
+            "release_date": "2016-01-18",
+            "msrp": 109.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 2080",
+            "3dmark_time_spy_avg_score": 10493,
+            "release_date": "2018-09-20",
+            "msrp": 699.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 670",
+            "3dmark_time_spy_avg_score": 1968,
+            "release_date": "2012-05-10",
+            "msrp": 399.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce GTX 1660",
+            "3dmark_time_spy_avg_score": 5520,
+            "release_date": "2019-03-14",
+            "msrp": 219.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 2060",
+            "3dmark_time_spy_avg_score": 7421,
+            "release_date": "2019-01-07",
+            "msrp": 349.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 3060 12GB",
+            "3dmark_time_spy_avg_score": 8706,
+            "release_date": "2021-02-25",
+            "msrp": 379.00
+        },
+        {
+            "make": "NVIDIA",
+            "model": "GeForce RTX 2080 Super",
+            "3dmark_time_spy_avg_score": 11188,
+            "release_date": "2019-07-23",
+            "msrp": 699.00
+        }
+    ]
+}

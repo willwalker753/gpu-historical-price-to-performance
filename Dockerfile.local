@@ -1,0 +1,7 @@
+FROM node:21.7.1-alpine3.18
+
+# this expects a rw volume from host /source to container /code/source
+RUN mkdir -p /code/source
+WORKDIR /code/source
+
+CMD ["/bin/sh", "-c", "npm install; npm start"]

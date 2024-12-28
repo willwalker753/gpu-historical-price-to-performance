@@ -1,0 +1,11 @@
+version: '2'
+services:
+    gpu-historical:
+        container_name: gpu-historical
+        build:
+            dockerfile: Dockerfile.local
+            context: .
+        volumes:
+            - $PWD/source:/code/source
+        ports:
+            - "0.0.0.0:3200:3000"
